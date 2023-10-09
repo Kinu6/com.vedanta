@@ -7,7 +7,7 @@ public void heman(){
 		
 	String hungry="yes";
 		
-		if(hungry=="yes") {
+		if(hungry =="yes") {
 			System.out.println("Eat something");
 		}
 		else 
@@ -17,3 +17,4 @@ public void heman(){
 	}
 	
 }
+ 
