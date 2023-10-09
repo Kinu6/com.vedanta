@@ -17,6 +17,7 @@ public class Test3 {
 			System.out.println("LE LE");
 			System.out.println("TERA MERA");
 			System.out.println("Hay hay");
+			System.out.println("HO HO");
 		}
 		
 
