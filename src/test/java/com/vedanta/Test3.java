@@ -18,9 +18,9 @@ public class Test3 {
 			System.out.println("TERA MERA");
 			System.out.println("Hay hay");
 			System.out.println("HO HO");
-			System.out.println("HI BABA");
-		}
-		
 
-	 
+			System.out.println("HI BABA");
+	System.out.println("HAY DAYA");
+
+		}
 }
