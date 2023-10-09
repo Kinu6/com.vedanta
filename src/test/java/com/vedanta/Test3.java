@@ -15,6 +15,7 @@ public class Test3 {
 				System.out.println("Do Work");
 			}
 			System.out.println("LE LE");
+			System.out.println("TERA MERA");
 		}
 		
 
