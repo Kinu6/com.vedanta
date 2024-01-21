@@ -12,7 +12,7 @@ public class Test3 {
 			}
 			else 
 			{
-				System.out.println("Do Work");
+				System.out.println("Do  n Work");
 			}
 			System.out.println("LE LE");
 			System.out.println("TERA MERA");
